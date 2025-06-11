@@ -9,12 +9,15 @@ export const Hero = () => {
         <div className="flex items-center w-full lg:w-1/2">
           <div className="max-w-2xl mb-8">
             <h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white">
-              Free Landing Page Template for startups
+              What We Do
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              Nextly is a free landing page & marketing website
-              template for startups and indie projects. Its built with
-              Next.js & TailwindCSS. And its completely open-source.
+              We help small businesses reduce energy costs by auditing and 
+              optimizing power usage. Our solution includes installing 
+              smart energy monitoring tools and providing actionable 
+              insights to cut down on electricity bills. 
+              We focus on high-consumption enterprises like bakeries, salons, 
+              mini-factories, and cold storage businesses.
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
@@ -23,7 +26,7 @@ export const Hero = () => {
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md ">
-                Download for Free
+                Request an Energy Audit
               </a>
               <a
                 href="https://github.com/web3templates/nextly-template/"
@@ -63,8 +66,8 @@ export const Hero = () => {
       <Container>
         <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
-            Trusted by <span className="text-indigo-600">2000+</span>{" "}
-            customers worldwide
+            Trusted by small businesses across<span className="text-indigo-600">Kenya</span>{" "}
+            to cut electricity costs and improve efficiency
           </div>
 
           <div className="flex flex-wrap justify-center gap-5 mt-10 md:justify-around">

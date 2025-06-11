@@ -28,10 +28,10 @@ export function Footer() {
               </Link>
             </div>
 
-            <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Nextly is a free landing page & marketing website template for
-              startups and indie projects. Its built with Next.js & TailwindCSS.
-              And its completely open-source.
+            <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400"> 
+              <p>Ready to start saving power and money?</p>
+              <p>Don’t let high electricity bills eat into your profits. Let’s work together to make your business energy efficient.</p>
+              <p><a href="#contact" className="text-blue-600 hover:underline">Get a Free Audit</a></p>
             </div>
 
             <div className="mt-5">

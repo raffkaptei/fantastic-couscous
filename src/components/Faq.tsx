@@ -36,21 +36,21 @@ export const Faq = () => {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
+    question: "Is this service only for Nairobi businesses?",
+    answer: "No — we support businesses across Kenya. Remote audits and virtual consultations are also available.",
   },
   {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    question: "Do I need to install anything?",
+    answer: "Yes, we may recommend affordable smart plugs/meters. Our team helps you through setup.",
   },
   {
-    question: "What is your refund policy? ",
+    question: "What businesses benefit the most? ",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      "Bakeries, salons, cyber cafés, and small manufacturing shops see the biggest gains.",
   },
   {
-    question: "Do you offer technical support? ",
+    question: "Can I get a demo? ",
     answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+      "Absolutely. Contact us for a free consultation or demo session.",
   },
 ];
