@@ -66,7 +66,7 @@ export const Hero = () => {
       <Container>
         <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
-            Trusted by small businesses across<span className="text-indigo-600">Kenya</span>{" "}
+            Trusted by small businesses across{" "}<span className="text-indigo-600">Kenya</span>{" "}
             to cut electricity costs and improve efficiency
           </div>
 
