@@ -13,12 +13,10 @@ export default function Home() {
     <Container>
       <Hero />
       <SectionTitle
-        preTitle="Nextly Benefits"
-        title=" Why should you use this landing page"
+        preTitle="Why Work With Us"
+        title=" Make your business energy smart"
       >
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+        We offer smart energy-saving solutions tailored for small enterprises. Our tools and insights help you reduce power costs and boost productivity — all without interrupting your daily operations.
       </SectionTitle>
 
       <Benefits data={benefitOne} />
@@ -28,9 +26,8 @@ export default function Home() {
         preTitle="Watch a video"
         title="Learn how to fullfil your needs"
       >
-        This section is to highlight a promo or demo video of your product.
-        Analysts says a landing page with video has 3% more conversion rate. So,
-        don&apos;t forget to add one. Just like this.
+        Learn How Our Solution Works
+        Watch this short demo to see how we audit power usage, generate reports, and help your business save money month after month.
       </SectionTitle>
 
       <Video videoId="fZ0D0cnR88E" />
@@ -39,15 +36,13 @@ export default function Home() {
         preTitle="Testimonials"
         title="Here's what our customers said"
       >
-        Testimonials is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
+        Hear directly from business owners who have lowered their energy bills and improved performance using our solutions.
       </SectionTitle>
 
       <Testimonials />
 
-      <SectionTitle preTitle="FAQ" title="Frequently Asked Questions">
-        Answer your customers possible questions here, it will increase the
-        conversion rate as well as support or chat requests.
+      <SectionTitle preTitle="Need Help?" title="Frequently Asked Questions">
+        Find quick answers about our energy audits, pricing, implementation timeline, and how we help businesses stay energy-smart.
       </SectionTitle>
 
       <Faq />
